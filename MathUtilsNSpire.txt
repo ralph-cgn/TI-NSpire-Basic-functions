@@ -1,0 +1,17 @@
+MathUtils 0.1 for TI NSpire CAS
+(c) Ralph Schenn 2011 (rschenn@t-online.de)
+
+This library was inspired by the following books:
+
+Kemnitz: "Mathematik zum Studienbeginn"
+...: "Elektronik..."
+
+It does not include any documentation beyond the comments contained in the functions. 
+
+Because i have switched to the TI 89 i will not continue to develop it. 
+
+The library for the TI 89 does not provide exactly the same functionality of this library but is already more pwerfull than this one. 
+
+The names of folders, functions and paramters are partly in german - sorry for the inconvenience this causes for international readers. 
+
+In contrast to the library for the TI 89 this library does not require addional libraries.
